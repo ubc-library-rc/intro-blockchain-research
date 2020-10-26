@@ -6,12 +6,8 @@ parent: Part 2 - Research Pathways
 nav_order: 3
 ---
 
-Step 1
-{: .label .label-step}
-Navigate to [EXAMPLE PAGE]
-{: .step}
+![Activity 1](figures/activity-1.png)
+<br>
 
-Step 2
-{: .label .label-step}
-Explore and try to find [EXAMPLE ADDRESS]
-{: .step}
+![Activity 2](figures/activity-2.png)
+<br>
