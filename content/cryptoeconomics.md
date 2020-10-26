@@ -6,7 +6,7 @@ parent: Part 1 - Establishing Concepts
 nav_order: 2
 ---
 
-# Defining and Contextualizing Cryptoeconomics
+# Contextualizing Cryptoeconomics
 
 ![Cryptoeconomics 1](figures/crypto-1.png)
 <br>
@@ -17,7 +17,7 @@ nav_order: 2
 
 * Concrete elements: reviewing the practical 'toolkit' derived from the whitepaper
 
-# Game Theory (What Makes All of This Awesome)
+# Game Theory Makes This Awesome
 
 ![Cryptoeconomics 2](figures/crypto-2.png)
 <br>

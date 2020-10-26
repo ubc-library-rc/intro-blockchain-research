@@ -6,7 +6,7 @@ parent: Part 1 - Establishing Concepts
 nav_order: 1
 ---
 
-# Introduction: Foundational Blockchain Concepts
+# Foundational Blockchain Concepts
 
 ![Intro 1](figures/intro-1.png)
 <br>
@@ -32,7 +32,7 @@ nav_order: 1
 
 * The snowball effect of community adoption: inventing value "out of thin air" (e.g. Laszlo Hanyecz's [Bitcoin Pizza](https://www.coindesk.com/bitcoin-pizza-10-years-laszlo-hanyecz))
 
-# Beyond Bitcoin: Forks, Spoons, and Moonshots
+# Beyond Bitcoin: Forks, Spoons, Moons
 
 ![Intro 3](figures/intro-3.png)
 <br>
@@ -41,7 +41,15 @@ nav_order: 1
 
 * Beyond just superficial means: excited developers wanted to see peer-to-peer technology go beyond *money*
 
-* 
+* There have been major splits in chains and communities (*forks*), the rare attempt to merge them back together (*spoons*), and overall, an increasing focus (maybe even obsession?) with 'price gains' AKA "going to the moon!"
+
+# Idealistic Values Still Thrive
 
 ![Intro 4](figures/intro-4.png)
 <br>
+
+* Despite the increasing widespread adoption of *cryptocurrency* for financial speculation, the core engineers, developers and activists in the blockchain space are still anchored by a passion for social change
+
+* Many participants are enthusiastically rooted in sci-fi utopian dreams for a future which is more open, more equitable, and more fair for all humans
+
+* Example to explore: Jaya Klara Brekke's [Satoshi's Oath for Developers](https://blog.b9lab.com/proposing-the-satoshi-oath-for-developers-69003cffb022)
