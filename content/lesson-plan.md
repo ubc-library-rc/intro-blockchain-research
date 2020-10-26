@@ -24,6 +24,7 @@ This is your session. If you have a question or feel we are going too fast, plea
 | [Part 1](part-01.md)
 | 0:10 | [Introduction to Blockchain](intro.md)
 | 0:30 | [Cryptoeconomics and Decentralization](cryptoeconomics.md)
+| 0:40 | [Decentralized Technology Communities](communities.md)
 | [Part 2](part-02.md)
 | 0:50 | [Exploring Possible Research Pathways](research-paths.md)
 | 1:05 | [Hands-on Learning Activity](activity.md)
