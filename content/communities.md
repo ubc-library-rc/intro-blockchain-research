@@ -37,5 +37,4 @@ nav_order: 3
 ![Communities 4](figures/comm-4.png)
 <br>
 
-
 * Transition point: why we covered all these communities? Research ethics particular to an emerging field

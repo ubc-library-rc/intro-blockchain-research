@@ -17,7 +17,7 @@ nav_order: 2
 
 * Concrete elements: reviewing the practical 'toolkit' derived from the whitepaper
 
-# Game Theory Makes This Awesome
+# Game Theory Makes This AwesomeS
 
 ![Cryptoeconomics 2](figures/crypto-2.png)
 <br>
@@ -32,8 +32,6 @@ nav_order: 2
 
 ![Cryptoeconomics 3](figures/crypto-3.png)
 <br>
-
-* 
 
 # Why's Decentralization Important?
 
