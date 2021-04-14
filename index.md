@@ -6,7 +6,8 @@ nav_order: 1
 
 This workshop is intended to provide a broad and general introduction to blockchain and other emerging decentralized technologies, followed by a number of exemplar research use cases from its many disciplinary pillars.
 
-![Decentralized Dance Party picture](figures/2b/ddp.jpg)
+![Decentralized Dance Party picture](figures/ddp.jpg)
+
 <br>
 A "Decentralized Dance Party" being held by decentralists.
 <br>
