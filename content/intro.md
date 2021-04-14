@@ -1,55 +1,59 @@
 ---
 layout: default
-title: Introduction to Blockchain
+title: Introduction to Blockchain and Decentralization
 permalink: /concepts/
 parent: Part 1 - Establishing Concepts
 nav_order: 1
 ---
 
-# Foundational Blockchain Concepts
+# What Do We Mean By Blockchain?
 
 ![Intro 1](figures/intro-1.png)
 <br>
 
-* What is a blockchain?
+* At its base, "[blockchain](https://en.bitcoin.it/wiki/Block_chain)" simply refers to a type of data structure which is *simple for anyone to verify* and *difficult for anyone to change*.
 
-* What do people usually mean when they say "blockchain"?
+![Screenshot from Bitcoin.it Wiki](figures/blockchain_btcwiki.png)
+Screenshot from [Bitcoin Wiki](https://en.bitcoin.it/wiki/Block_chain), CC-A 3.0
 
-* Key concepts: **append-only** (*immutable*), **peer to peer** (*verifiable*), **uncensorable** (*self-sovereign*)
+* Usually, when people *say* blockchain, they're referring more generally to the ledgers, cryptocurrencies, or decentralized consensus mechanisms being used in blockchain systems.
+
+* People use the word "blockchain" very imprecisely. To account for that, we'll be touching briefly upon many of the important elements of these decentralized technology systems in this session.
 
 # Origins: The 2008 Bitcoin Whitepaper
 
 ![Intro 2](figures/intro-2.png)
 <br>
 
-* "Chancellor on Brink of Second Bailout for Banks" - the [Genesis Block](https://en.bitcoin.it/wiki/Genesis_block) of Bitcoin
+* Satoshi Nakamoto's Bitcoin whitepaper: launching the toolkit for cryptoeconomics
 
-* Satoshi Nakamoto's whitepaper: bringing together the toolkit for cryptoeconomics
+    * A chain of immutable, timestamped data blocks which build upon one another (*timechain*)
+    * Competitive use of computing power (*Proof of Work*) to secure the network- many computers across the world confirm transactions, rather than a centralized authority
+    * An [antifragile](https://en.wikipedia.org/wiki/Antifragile#Introduction) distributed consensus-based network system (e.g. [resistant to Sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack))
 
-    * Chain of immutable, timestamped data blocks which build upon one another (*timechain*)
-    * Competitive use of computing power (*Proof of Work*)
-    * An [antifragile](https://en.wikipedia.org/wiki/Antifragile#Introduction) system (e.g. [resistant to Sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack))
 
-* The snowball effect of community adoption: inventing value "out of thin air" (e.g. Laszlo Hanyecz's [Bitcoin Pizza](https://www.coindesk.com/bitcoin-pizza-10-years-laszlo-hanyecz))
-
-# Beyond Bitcoin: Forks, Spoons, Moons
+# Bitcoin: A Success Story, Slow Then Fast
 
 ![Intro 3](figures/intro-3.png)
 <br>
 
-* After Bitcoin adoption began to pick up, *people wanted to copy its success*
+* The snowball effect of community adoption: inventing value "out of thin air" (e.g. Laszlo Hanyecz's [Bitcoin Pizza](https://www.coindesk.com/bitcoin-pizza-10-years-laszlo-hanyecz))
 
-* Beyond just superficial means: excited developers wanted to see peer-to-peer technology go beyond *money*
+* After Bitcoin adoption began to pick up, *people wanted to copy its success*:  this led to the age of "altcoins" (which began by simply *forking* Bitcoin, or copying its codebase)
 
-* There have been major splits in chains and communities (*forks*), the rare attempt to merge them back together (*spoons*), and overall, an increasing focus (maybe even obsession?) with 'price gains' AKA "going to the moon!"
+At this point, we must return to the "Block Chain" page of the original Bitcoin Wiki, which we pulled our definition from above:
 
-# Idealistic Values Still Thrive
+![Screenshot from Bitcoin.it Wiki](figures/timechain.png)
+Screenshot from [Bitcoin Wiki](https://en.bitcoin.it/wiki/Block_chain), CC-A 3.0
 
-![Intro 4](figures/intro-4.png)
+* Excited developers wanted to see peer-to-peer technology go beyond *money* - the next major movements came with the creation of Ethereum
+
+# What About "Decentralization"?
+
+![Cryptoeconomics 3](figures/crypto-3.png)
 <br>
 
-* Despite the increasing widespread adoption of *cryptocurrency* for financial speculation, the core engineers, developers and activists in the blockchain space are still anchored by a passion for social change
+[Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e): 'Coding In' decentralization as an attempt to reclaim the promise of the open World Wide Web (e.g. [Decentralized Web Summit](https://www.decentralizedweb.net/about/))
 
-* Many participants are enthusiastically rooted in sci-fi utopian dreams for a future which is more open, more equitable, and more fair for all humans
-
-* Example to explore: Jaya Klara Brekke's [Satoshi's Oath for Developers](https://blog.b9lab.com/proposing-the-satoshi-oath-for-developers-69003cffb022)
+![Cryptoeconomics 4](figures/crypto-4.png)
+<br>

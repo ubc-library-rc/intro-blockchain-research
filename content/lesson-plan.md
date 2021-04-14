@@ -22,12 +22,12 @@ This is your session. If you have a question or feel we are going too fast, plea
 | --- | ---
 | 0:05 | [How to Participate in the Session](participating-online.md)
 | [Part 1](part-01.md)
-| 0:10 | [Introduction to Blockchain](intro.md)
-| 0:30 | [Cryptoeconomics and Decentralization](cryptoeconomics.md)
-| 0:40 | [Decentralized Technology Communities](communities.md)
+| 0:10 | [Introduction to Blockchain and Decentralization](intro.md)
+| 0:25 | [Conceptual Glossary](concepts.md)
+| 0:35 | [Technical Activities](activity.md)
 | [Part 2](part-02.md)
-| 0:50 | [Exploring Possible Research Pathways](research-paths.md)
-| 1:05 | [Hands-on Learning Activity](activity.md)
-| 1:20 | [Resources for Asynchronous Learning](resources.md)
+| 0:50 | [Orienting to Blockchain Research Pathways](research-paths.md)
+| 1:00 | [Technical & Product Research Use Cases](usecase1.md)
+| 1:15 | [Sociological and Advocacy Research Use Cases](usecase2.md)
 
 _Actual schedule may vary depending on group needs_

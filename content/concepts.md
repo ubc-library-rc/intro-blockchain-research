@@ -1,10 +1,34 @@
 ---
-layout: page
-title: Resources for Asynchronous Learning
-permalink: /resources/
-parent: Part 2 - Research Pathways
+layout: default
+title: Conceptual Glossary
+permalink: /cryptoeconomics/
+parent: Part 1 - Establishing Concepts
 nav_order: 2
 ---
+
+# Contextualizing Cryptoeconomics
+
+![Cryptoeconomics 1](figures/crypto-1.png)
+<br>
+
+* Defining [cryptoeconomics](https://en.wikiversity.org/wiki/Cryptoeconomics)
+
+* Key concepts: **append-only** (*immutable*), **peer to peer** (*verifiable*), **uncensorable** (*self-sovereign*)
+
+* Why use such a "ten-dollar word"?
+
+* Concrete elements: reviewing the practical 'toolkit' derived from the whitepaper
+
+# Game Theory Makes This Awesome
+
+![Cryptoeconomics 2](figures/crypto-2.png)
+<br>
+
+* True complexity comes from the unpredictable decisions of human beings at scale
+
+* Economics' historical attempt to grapple with this "irrationality"
+
+* *Crypto*economics, with its programmatic elements, allows us greater range of precise experimentation
 
 # Navigating/Evaluating Online Resources 
 
@@ -46,25 +70,3 @@ Ultimately, most projects *beyond* these two widely adopted public blockchains w
 * Never provide your personal information to someone else, or "send someone cryptocurrency to receive more back." Anything that looks too good to be true, *definitely is*.
 
 * "Social engineering" is one of the greatest attack vectors in this industry- e.g. make sure you bookmark links that you return to regularly, rather than using a search engine to track them down, as that can be temporarily "gamed" by scammers
-
-# Connect With Real People
-
-![Resources 4](figures/resources-4.png)
-<br>
-
-* Though it's not as easy as 'walking into a meetup' anymore, there are many opportunities for free virtual learning online!
-
-* We run [UBC Bitcoin/Blockchain Club](https://amscampusbase.ubc.ca/bitcoinclub/club_signup) where new members are always welcome!
-
-* Vancouver's prolific [blockchain meetup groups](https://www.meetup.com/Vancouver-Ethereum-Meetup/) are starting to produce some fully virtual events
-
-# Contribute to Global Movements
-
-![Resources 5](figures/resources-5.png)
-<br>
-
-* The blockchain and decentralization space is unfortunately still pretty homogeneous along many axes - we **need diverse voices and perspectives**
-
-* In particular, we need to move beyond conceptions that this is just a "computer science" pursuit, or that programmers can somehow skip past thousands of years of lessons in human ethics and governance
-
-* If you are interested in being a researcher-*practitioner*, (e.g. [Participatory Action Research](https://en.wikipedia.org/wiki/Participatory_action_research)) this is the ideal field to explore!

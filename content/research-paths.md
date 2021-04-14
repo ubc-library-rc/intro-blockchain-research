@@ -1,32 +1,22 @@
 ---
 layout: page
-title: Exploring Possible Research Pathways
+title: Orienting to Blockchain Research Pathways
 permalink: /research-paths/
-parent: Part 2 - Research Pathways
+parent: Part 2 - Research Use Cases
 nav_order: 1
 ---
 
-# Research in Computer Science and Programming
+# The Multidisciplinarity of Blockchain Studies
 
-![Research Pathways 1](figures/research-1.png)
-<br>
+First let's revisit and review the the originating disciplines which contribute to blockchain:
 
-# Research in Engineering and Complex Systems Design
+* Computer science and cryptography
+* Complex systems engineering and design
+* Archival and information science
+* Economics and game theory
 
-![Research Pathways 2](figures/research-2.png)
-<br>
+# Blockchain Communities as Subcultures
 
-# Setting Legal and Regulatory Precedents and Policies
-
-![Research Pathways 3](figures/research-3.png)
-<br>
-
-# Research in UX/UI and Creative Design
-
-![Research Pathways 4](figures/research-4.png)
-<br>
-
-# Community Research, Advocacy, and Ethics
-
-![Research Pathways 5](figures/research-5.png)
-<br>
+* This fast-paced, small-scale set of intertwining communities provides a veritable live lab for the many disciplines tied into cryptoeconomics
+* Keep in mind that their participants are *real people* just as much at risk of harm or exploitation as any other population you'd study
+* In each exemplar use case to follow, we'll touch more upon the particular risks and pain points that arise when researching, or even engaging, with the communities around disruptive technologies like blockchain

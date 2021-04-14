@@ -2,7 +2,7 @@
 layout: page
 title: Hands-on Learning Activity
 permalink: /activity/
-parent: Part 2 - Research Pathways
+parent: Part 1 - Establishing Concepts
 nav_order: 3
 ---
 
@@ -15,7 +15,7 @@ Please navigate with me to [Johoe's Bitcoin Mempool Statistics](https://jochen-h
 
 **Bonus**: A different [mempool virtualization site](https://mempool.space/), and a more utilitarian presentation of [fee size related to transaction confirmation times](https://bitcoinfees.earn.com/#delay).
 
-# Activity 2: Review Activity from a Known Ethereum Addresss
+# Activity 2: View Transactions from a Known Ethereum Addresss
 
 ![Activity 2](figures/activity-2.png)
 <br>

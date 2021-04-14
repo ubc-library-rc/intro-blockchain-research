@@ -30,7 +30,7 @@ Clicking an icon makes it appear next to your name in the participants list. Use
 
 Use the _Chat_ window to comment or ask a question at any time. For this workshop, one instructor will cover the majority of the content in each sub-section before addressing related questions. 
 
-The co-facilitating instructor will manage and coordinate the chat throughout, so feel free to add your questions at any time!
+The co-facilitating instructor will manage and coordinate the chat throughout, so feel free to add your questions at any time! Please try to ask questions in the public chat, as it can be hard for co-facilitators to answer people in DMs.
 
 The _Chat_ window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session.
 <br/>
@@ -42,6 +42,6 @@ In some cases instructors may invite you to share your screen. Raise your hand t
 
 ## Guiding Norms
 
-Keep in mind as we progress through this workshop, it's very high level content which combines both abstract and highly specific information.
+Keep in mind as we progress through this workshop, it contains very high level content which combines both abstract and highly specific information.
 
 The instructors expect you to have plenty of questions, and by vocalizing them, you are helping to guide this workshop to be as useful as possible.
