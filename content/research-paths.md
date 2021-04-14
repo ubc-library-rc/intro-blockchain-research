@@ -11,11 +11,14 @@ nav_order: 1
 First let's revisit and review the the originating disciplines which contribute to blockchain:
 
 * Computer science and cryptography
-* Complex systems engineering and design
+* Complex distributed systems engineering
 * Archival and information science
 * Economics and game theory
 
 # Blockchain Communities as Subcultures
+
+![Resources 3](figures/resources-3.png)
+<br>
 
 * This fast-paced, small-scale set of intertwining communities provides a veritable live lab for the many disciplines tied into cryptoeconomics
 * Keep in mind that their participants are *real people* just as much at risk of harm or exploitation as any other population you'd study
