@@ -25,18 +25,6 @@ Brings in elements of:
 * Archival and information science
 * Economics and game theory
 
-
-# Game Theory Makes This Awesome
-
-![Cryptoeconomics 2](figures/crypto-2.png)
-<br>
-
-* True complexity comes from the unpredictable decisions of human beings at scale
-
-* Economics' historical attempt to grapple with this "irrationality"
-
-* *Crypto*economics, with its programmatic elements, allows us greater range of precise experimentation
-
 # Navigating/Evaluating Online Resources 
 
 ![Resources 1](figures/resources-1.png)
