@@ -11,11 +11,9 @@ nav_order: 2
 ![Activity 1](figures/activity-1.png)
 <br>
 
-Please navigate with me to [Johoe's Bitcoin Mempool Statistics](https://jochen-hoenicke.de/queue/#0,24h).
+Please navigate with me to [BitInfoCharts](https://bitinfocharts.com/bitcoin/). We will explore the immediately presented data about the state of the Bitcoin network, and explore what this information can meaningfully relay about the actual activities happening around this blockchain.
 
-**Bonus**: A different [mempool virtualization site](https://mempool.space/), and a more utilitarian presentation of [fee size related to transaction confirmation times](https://bitcoinfees.earn.com/#delay).
-
-# Activity 2: Review Transactions from a Known Ethereum Addresss
+# Activity 2: Review Transactions from a Known Ethereum Address
 
 ![Activity 2](figures/activity-2.png)
 <br>

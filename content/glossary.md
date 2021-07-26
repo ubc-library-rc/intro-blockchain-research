@@ -11,7 +11,7 @@ nav_order: 3
 ![Cryptoeconomics 1](figures/crypto-1.png)
 <br>
 
-* Defining [cryptoeconomics](https://en.wikiversity.org/wiki/Cryptoeconomics)
+### Defining [cryptoeconomics](https://en.wikiversity.org/wiki/Cryptoeconomics)
 
 * Key concepts: 
     * **append-only** (*immutable*)
@@ -26,6 +26,8 @@ Brings in elements of:
 * Economics and game theory
 
 # Glossary
+
+*Note: this is a work in project, I'll continue to build out definitions here!*
 
 **Address**
 

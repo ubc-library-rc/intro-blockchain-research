@@ -31,9 +31,14 @@ The innovations it interweaves include:
 
 In Fall 2020, UBC Bitcoin Club and Carpe Lunam Events created this set of [short videos](https://www.youtube.com/playlist?list=PLvhhoxakT2WAKm6WKFEf3iPQWGAjl8QYR) explaining each section of the Bitcoin whitepaper in ~5 min or less. 
 
-For now, it's useful to understand that Bitcoin borrows from:
+### For now, it's useful to understand that Bitcoin builds upon existing multidisciplinary pillars:
 
-* the field of **cryptography** to ensure network security and pseudonymity 
+* the field of **cryptography** to ensure network security and pseudonymity of its participants (as well as the mechanism for reaching decentralized consensus);
+* the field of **distributed computing** to allow that complex system of decentralized computers to communicate and share information effectively;
+* the field of **economics** to represent how human markets behave, and set forth a hypothesis for how to organically instill value in a digital currency;
+* the field of **game theory** to model potential behavior from bad actors and how to disincentivize it within the Bitcoin network;
+* the field of **archival science** to identify the contrasting poles of human trust and transparent verifiability, and position Bitcoin's network as closely to the latter as possible.
+
 
 Taken all together, this original technical paper presents all the components necessary for Bitcoin's multidisciplinary foundations and eventual global success story.
 
