@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hands-on Learning Activity
+title: Hands-on Learning Activities
 permalink: /activity/
-parent: Part 1 - Establishing Concepts
-nav_order: 3
+parent: Part 1 - Exploring Concepts
+nav_order: 2
 ---
 
-# Activity 1: Explore Bitcoin's Mempool
+# Activity 1: Explore and Contextualize Public Bitcoin Data
 
 ![Activity 1](figures/activity-1.png)
 <br>
@@ -15,7 +15,7 @@ Please navigate with me to [Johoe's Bitcoin Mempool Statistics](https://jochen-h
 
 **Bonus**: A different [mempool virtualization site](https://mempool.space/), and a more utilitarian presentation of [fee size related to transaction confirmation times](https://bitcoinfees.earn.com/#delay).
 
-# Activity 2: View Transactions from a Known Ethereum Addresss
+# Activity 2: Review Transactions from a Known Ethereum Addresss
 
 ![Activity 2](figures/activity-2.png)
 <br>

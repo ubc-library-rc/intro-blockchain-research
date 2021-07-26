@@ -1,29 +1,10 @@
 ---
 layout: default
-title: Cryptoeconomic Concepts
-permalink: /cryptoeconomics/
-parent: Part 1 - Establishing Concepts
-nav_order: 2
+title: Navigating Online Resources
+permalink: /resources/
+parent: Part 2 - Research Use Cases
+nav_order: 4
 ---
-
-# Contextualizing Cryptoeconomics
-
-![Cryptoeconomics 1](figures/crypto-1.png)
-<br>
-
-* Defining [cryptoeconomics](https://en.wikiversity.org/wiki/Cryptoeconomics)
-
-* Key concepts: 
-    * **append-only** (*immutable*)
-    * **peer to peer** (*verifiable*
-    * **uncensorable** (*self-sovereign*)
-
-Brings in elements of:
-
-* Computer science and cryptography
-* Complex distributed systems engineering
-* Archival and information science
-* Economics and game theory
 
 # Navigating/Evaluating Online Resources 
 
@@ -37,7 +18,6 @@ Brings in elements of:
 * *How* to verify? Look for major sources ([Andreas Antonopoulos](https://aantonop.com/) is one of the original and the best) and voices to start following. That doesn't mean trust everything they say, of course, but start to curate the sources that make sense to you!
 
 Before diving into blockchain-specific resources, I'll share the best 'game theory' orientation I've ever found- [Nicky Case's ~30 min game 'The Evolution of Trust'](https://ncase.me/trust/).
-
 
 ### Bitcoin Resources 
 

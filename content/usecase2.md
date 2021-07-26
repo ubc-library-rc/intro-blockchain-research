@@ -8,11 +8,11 @@ nav_order: 3
 
 # Research Use Case: Community Research (STS)
 
-**Primary Focus**: How do communities around emerging technologies behave?
+### **Primary Focus**: How do communities around emerging technologies behave?
 
 **Proximal Disciplines**: Sociology, Anthrolopology, Cultural Theory, Psychology, Science and Technology Studies
 
-**Example Research Questions**:
+### **Example Research Questions**:
 
 * How do cryptocurrency users conceptualize the notion of 'trust'?
 * What are the major ideological divides between Bitcoiners and Ethereans?
@@ -20,7 +20,7 @@ nav_order: 3
 
 **Major Concepts in Play**: [Trustlessness](https://www.preethikasireddy.com/post/what-do-we-mean-by-blockchains-are-trustless), [Decentralists](https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede), [Cypherpunks](https://www.activism.net/cypherpunk/manifesto.html), ['Toxic Maximalism'](https://bitcoinmagazine.com/culture/op-ed-why-bitcoins-toxic-maximalism-makes-sense)
 
-**Risks to Consider**:
+### **Risks to Consider**:
 
 * Highest risk of personal harm to research subjects (individualized focus)
 * Difficult to gain trust/'insider status' in these communities
@@ -31,18 +31,18 @@ nav_order: 3
 
 # Research Use Case: Law and Public Policy
 
-**Primary Focus**: How do we adjust law and policy to best fit these new technologies?
+### **Primary Focus**: How do we adjust law and policy to best fit these new technologies?
 
 **Proximal Disciplines**: Law, Public Policy, Accounting, Economics, History, Sociology
 
-**Example Research Questions**:
+### **Example Research Questions**:
 
 * Do blockchain developers hold [fiduciary responsibility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3203198)?
 * Should cryptocurrency be regulated as a currency, an asset, a security, or something elsea?
 
 **Major Concepts in Play**: [Sovereignty](https://bitcoinmagazine.com/culture/bitcoin-unleashes-the-sovereign-individual), [Governance](https://www.ourmachine.net/writing/byzantine-generalization-problem/), [Permissionlessness](https://www.corda.net/blog/permissionlessness-a-simple-concept-with-profound-implications/), [Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 
-**Risks to Consider**:
+### **Risks to Consider**:
 
 * Can be challenging to map slow-moving law and policy sectors to the "move fast and break things" speed of disruptive technology
 * Participants in this ecosystem are often inherently suspicious of law and policy collaborators
@@ -52,11 +52,11 @@ nav_order: 3
 
 # Research Use Case: Advocacy and Ethics
 
-**Primary Focus**: How can we prevent the potential exploitation of these technologies to control, track, or otherwise harm populations?
+### **Primary Focus**: How can we prevent the potential exploitation of these technologies to control, track, or otherwise harm populations?
 
 **Proximal Disciplines**: Public Policy, Social Work, Philosophy, Non-Profit Management, Humanities
 
-**Example Research Questions**:
+### **Example Research Questions**:
 
 * What are the mechanisms for transparency and accountability amongst the major public blockchains?
 * What grounding principles should smart contract developers keep in mind when writing self-executing code?
@@ -64,7 +64,7 @@ nav_order: 3
 
 **Major Concepts in Play**: [Game Theory](https://ncase.me/trust/), [Governance](https://www.ourmachine.net/writing/byzantine-generalization-problem/), [Trustlessness](https://www.preethikasireddy.com/post/what-do-we-mean-by-blockchains-are-trustless)
 
-**Risks to Consider**:
+### **Risks to Consider**:
 
 * Difficult to identify what is "the path of least harm," especially when you are new to these complex intersecting domains
 * As someone deeply engaged in this facet of research myself: it runs the highest risk of ending up in vain :/
