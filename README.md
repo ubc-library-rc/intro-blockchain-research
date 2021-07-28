@@ -1,7 +1,5 @@
 # Introduction to Blockchain Research Skills
 
-# Introduction to the Unix Shell
-
 Part of the Core skills in Digital Scholarship workshop series from the [UBC Library Research Commons](https://ubc-library-rc.github.io/).
 
 Link to workshop: https://ubc-library-rc.github.io/intro-blockchain-research/
