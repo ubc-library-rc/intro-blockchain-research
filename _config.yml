@@ -1,6 +1,6 @@
 title: Introduction to Blockchain Research Skills
-remote_theme: ubc-library-rc/rc-workshop-template
-search_enabled: false
+remote_theme: ubc-library-rc/rc-theme
+color_scheme: rc
 github_repo_url: "https://github.com/ubc-library-rc/intro-blockchain-research/"
 
 # license information for workshop content
@@ -12,3 +12,4 @@ license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
