@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to Blockchain Research Skills (Index)
+title: Introduction
 nav_order: 1
 ---
 
