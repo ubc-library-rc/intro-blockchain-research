@@ -21,4 +21,4 @@ A "Decentralized Dance Party" being held by [decentralists](https://theddp.com/)
 * Understand what fields and disciplines are interrelated with the emerging multidisciplinary domain "cryptoeconomics"
 * Explore real research, and research prompt questions, which contextualize this abstract topic in real-world terms
 
-This is a [UBC Library Research Commons workshop](https://researchcommons.library.ubc.ca). For more information about our [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at [UBC Research Commons' website](https://researchcommons.library.ubc.ca).
+This is a [UBC Library Research Commons workshop](https://researchcommons.library.ubc.ca). For more information about [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view our open workshop content find us at <a href="https://researchcommons.library.ubc.ca">https://researchcommons.library.ubc.ca</a>.
