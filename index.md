@@ -3,6 +3,7 @@ layout: default
 title: Introduction
 nav_order: 1
 ---
+❗ This workshop is archived and is no longer developed. ❗
 
 # Introduction to Blockchain Research Skills
 
