@@ -1,5 +1,7 @@
 # Introduction to Blockchain Research Skills
 
+❗ This workshop is archived and is no longer developed. ❗
+
 Link to workshop: https://ubc-library-rc.github.io/intro-blockchain-research/
 
 Unless otherwise indicated, all images are original photographs and digital art by Chelsea Palmer, primarily produced over the period of 2016-2019, and licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
